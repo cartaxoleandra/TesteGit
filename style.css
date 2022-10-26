@@ -1,0 +1,12 @@
+div {
+    width: 400px;
+    height: 400px;
+    background-color: antiquewhite;
+    text-align: center;
+    display: flex;
+
+
+}
+h2 {
+    text-align: center;
+}
